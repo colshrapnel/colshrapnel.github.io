@@ -1,5 +1,7 @@
+---
 layout: post
 title: It's time to admit that Stack Overflow is not so good at answering questions
+---
 
 And no, it's not about chatGPT. The problem is much older and deeper. 
 
