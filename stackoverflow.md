@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "It's time to admit that Stack Overflow is not so good at answering questions"
 ---
 
